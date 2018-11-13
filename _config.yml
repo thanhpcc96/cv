@@ -3,7 +3,7 @@ title: Thanh PC Resume
 description: Thanh PC Resume
 
 url: 'http://agiletech.vn'
-baseurl: 'https://agiletechvn.github.io' #change it according to your repository name
+baseurl: 'https://thanhpcc96.github.io/thanhpcc-cv' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
