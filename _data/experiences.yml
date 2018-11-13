@@ -1,0 +1,15 @@
+- experience:
+  role: Mobile Developer
+  time: 2017 - Present
+  company: Agile Tech Viet Nam
+- experience:
+  role: Database Developer
+  time: 01/2017 - 08/2017
+  company: Bravo Viet Nam
+  details: "This is my part time job when I'm learing in university."
+- experience:
+  role: freelancer
+  time: since 2016 to 2017
+  details: "outsourcing android, nodejs, react"
+
+

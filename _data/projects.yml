@@ -1,0 +1,35 @@
+intro: "My Project"
+projects:
+  - project:
+    title: Manager Coach
+    link: "#hook"
+    tagline: "Manager location of Coach and buy and tranfer ticket online"
+  - project:
+    title: Chat App
+    link: "#"
+    tagline: "App chat realtime. Chat Text, Video call"
+  - project:
+    title: Smart Light
+    link: "http://denhocthongminh.com"
+    tagline: "Mobile App for study management, online education"
+  - project:
+    title: Invite Trips
+    link: "#"
+    tagline: "Mobile and Website app for travel"
+  - project:
+    title: Luxstay for Host
+    link: "https://play.google.com/store/apps/details?id=net.luxstay.apphost.android"
+    tagline: "Mobile app for host(merchant) manager their Homestay"
+  - project:
+    title: Homestay Quickly
+    link: "#"
+    tagline: "Backend API and Mobile and Website app for travel and lease homestay"
+  - project:
+    title: Cadavan
+    link: "#"
+    tagline: "Backend API, Design App UI, Mobile and Website app for booking airticket"
+  - project:
+    title: Market Place(TorYodonline) - current
+    link: "https://play.google.com/store/apps/details?id=com.toryodonline.buyer"
+    tagline: "Maintainer and develope new feature mobile app for Ecommerce Platforms"
+

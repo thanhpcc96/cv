@@ -1,0 +1,31 @@
+- skill:
+  name: java
+  level: 70%
+- skill:
+  name: android
+  level: 70%
+- skill:
+  name: Javascript
+  level: 95%
+- skill:
+  name: React-Native
+  level: 95%
+- skill:
+  name: Reactjs
+  level: 90%
+- skill:
+  name: HTML5 & CSS3
+  level: 80%
+- skill:
+  name: Nodejs
+  level: 90%
+- skill:
+  name: DevOps Docker, VW
+  level: 60%
+- skill:
+  name: Sketch & Photoshop
+  level: 50%
+- skill:
+  name: Mongodb, Redis, MySQl, SQLServer, Firebase, AWS AppSync, GraphQL
+  level: 80%
+
