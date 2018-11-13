@@ -3,7 +3,7 @@ title: Thanh PC Resume
 description: Thanh PC Resume
 
 url: 'http://agiletech.vn'
-baseurl: 'https://thanhpcc96.github.io/thanhpcc-cv' #change it according to your repository name
+baseurl: 'https://thanhpcc96.github.io/cv' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
 
@@ -23,7 +23,7 @@ summary: "I'm 22 years old, I'm a developer. I would love to learn about infomat
 #sidebar links
 email: thanhpcc1996@gmail.com
 phone: (+84)822208575
-website: thanhpcc96.github.io/thanhpcc-cv/ #do not add http:///
+website: thanhpcc96.github.io/cv #do not add http:///
 github: thanhpcc96
 linkedin: thanh-pham-11ba39116
 #Update all the sections by editing the files inside _data folder.
